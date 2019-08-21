@@ -1,0 +1,5 @@
+Javier Gómez Martínez
+Carlos Li Hu
+
+el archivo quijote.txt es el archivo que empleamos para comprobar que
+la fragmentación funciona.
