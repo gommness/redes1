@@ -1,0 +1,11 @@
+Gomez Martinez Javier
+Li Hu Carlos
+
+Hemos dividido la práctica en 2 carpetas:
+
+	La primera es "Primer ejercicio: libpcap"
+		donde encontramos todos los ficheros de esa parte que nos piden
+
+	La segunda es "Segundo ejercicio: Wireshark "
+		Donde hemos decidido guardar todo lo relacionado con la introducción a wireshark
+			podemos encontrar las trazas de los ejercicios 1,2, y 5 para comprobar su correcto funcionamiento junto al pdf redactado.

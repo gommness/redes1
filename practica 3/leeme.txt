@@ -1,0 +1,16 @@
+Gómez Martínez Javier
+Li Hu Carlos
+
+En esta práctica tenemos diversas carpetas
+
+	/codigo/
+		En esta carpeta se encuentra todo lo que tiene que ver con la parte de codificación
+			crearCDF.c		donde tenemos el código para crear el muestreo de la función ECDF
+			ejemploGNUplot.gp	que usamos para elaborar las gráficas
+			practica3_analisis.sh	donde ejecutamos todos los scripts auxiliares para los diferentes apartados de la práctica			
+			ejercicioX.sh		son los mencionados scripts auxiliares (donde X es el número entre 1 y 8 que corresponde al apartado que resuelve.
+			traza.pcap		aquí iría también nuestra traza para funcionar correctamente el script
+
+	/datos/
+	/graficas/
+	/top/
